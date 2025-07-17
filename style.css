@@ -5,17 +5,31 @@
   color: #bfc0d1;
   font-family: "Inter", sans-serif;
 }
-.navbar-nav {
-  text-align: ;
-}
+
 .main {
   text-align: center;
 }
+.navbar-custom {
+  color: #bfc0d1;
+  text-decoration: none;
+  font-weight: 800;
+}
+
+.nav-link {
+  color: #bfc0d1;
+  font-family: "Inter", sans-serif;
+  letter-spacing: 0.5px;
+}
+.navbar-toggler {
+  background-color: #bfc0d1;
+}
+
 .buttons {
   background-color: #bfc0d1;
   color: #60519b;
   border-radius: 20px;
 }
+
 h1 {
   font-family: "Playfair Display", serif;
   font-size: 120px;
