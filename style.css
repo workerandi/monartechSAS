@@ -28,6 +28,12 @@
   background-color: #bfc0d1;
   color: #60519b;
   border-radius: 20px;
+  border-color: #bfc0d1;
+}
+.project-backgrounds {
+  background-color: #31323e;
+  padding: 20px;
+  margin: 20px;
 }
 
 h1 {
@@ -40,5 +46,9 @@ h2 {
   font-size: 35px;
   margin: auto;
 }
-p {
+
+img {
+  height: auto;
+  width: 400px;
+  margin: 15px;
 }
